@@ -1,7 +1,6 @@
 import java.util.*;
 
-public class ListGenerator
-{  
+public class ListGenerator {  
     /*
      * This function generates a string based on the inputs passed
      * in. If the length of the list is 0, nothing gets returned.
