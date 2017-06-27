@@ -1,5 +1,4 @@
 import java.util.*;
-import java.lang.*;
 
 public class ListGenerator
 {  
@@ -45,7 +44,6 @@ public class ListGenerator
         
         return ret;
     }
-    
     
     public static void main(String args[])
     {
